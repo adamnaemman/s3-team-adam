@@ -5,7 +5,7 @@
     "location": "Mahallah Ali, Gombak, Selangor",
     "openHours": "7:30 am - 7:00 pm",
     "sortOrder": 1,
-    "ownerUid": 
+    "ownerUid": "g99GzO3j4iVFn5UisF6vLM3JzL82",
     "categories": ["Kek Tapak Kuda", "Cheese Cake", "Mochi"],
     "isOpen": true,
     "menu": [
@@ -21,6 +21,6 @@
       { "id": "2418711-m-1", "name": "Mochi Matcha", "description": "Made with original Japanese matcha ganache", "price": 28.00, "category": "Mochi", "available": true },
       { "id": "2418711-m-2", "name": "Mochi Durian", "description": "Rich durian flavor", "price": 28.00, "category": "Mochi", "available": true },
       { "id": "2418711-m-3", "name": "Mochi Chocolate", "description": "Made by Original Matcha", "price": 28.00, "category": "Mochi", "available": true }
-    ],
+    ]
   }
 ]
