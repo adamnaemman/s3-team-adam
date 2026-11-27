@@ -1,4 +1,4 @@
-# s3-team-adam - Section - Group 02
+# s3-team-adam · Section 3 · Group 02
 ###### Project Planning : https://canva.link/hatv2g8o8bihmr2
 ###### Live:
 
@@ -7,8 +7,8 @@
 |2418711 | Setup Lead | Kek Tapak Kuda      | Favourites              | feature-favourites              | src/features/favourites              | 
 |2411639 | Member     | Nasi Beriyani Power | Opening Hours           | feature-opening-hours           | src/features/opening-hours           | 
 |2412941 | Member     | Kerabu Shack        | Promotions              | feature-promotions              | src/features/promotions              | 
-|2416409 | Member     | Warung Selera Kita  | Ratings and Reviews     | feature-rating and reviews      | src/features/rating-and-reviews      | 
-|2419467 | Member     | Nasi Kukus          | Allergen and halal info | feature-allergen and halal info | src/features/allergen-and-halal=info | 
+|2416409 | Member     | Warung Selera Kita  | Ratings and Reviews     | feature-ratings-and-reviews      | src/features/rating-and-reviews      | 
+|2419467 | Member     | Nasi Kukus          | Allergen and halal info | feature-allergen-and-halal-info | src/features/allergen-and-halal-info | 
 
 ## Features
 | Feature                   | Problem it solves (who it helps)        | Screen / route    | Firestore data | Offline strategy       |
@@ -20,7 +20,7 @@
 | Allergen and halal info   | Students with dietary restrictions, food allergies, or halal requirements can verify item suitability with confidence before ordering | /shop/:id (stall info & menu item details)      | shops / menu items (menuItems or subcollection under shops)        | Stale-While-Revalidate |
 
 ## Run it
-1. git clone https://github.com/adamnaemman/s3-team-adam && cd s1-team-rahmah
+1. git clone https://github.com/adamnaemman/s3-team-adam && cd s3-team-adam
 2. npm install
 3. Create .env.local with the VITE_FIREBASE_* keys (from the group chat, never on GitHub)
 4. npm run dev
