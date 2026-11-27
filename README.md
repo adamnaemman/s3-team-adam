@@ -28,7 +28,7 @@
 ## Test accounts (for the demo; passwords shared privately)
 | Role    | Email                   |
 |---------|-------------------------|
-| Admin   | admin@test.com          |
+| Admin   | admin@test.com          | admin1234
 | Vendor  | vendor-2418711@test.com |
 | Vendor  | vendor-2411639@test.com |
 | Vendor  | vendor-2412941@test.com |
