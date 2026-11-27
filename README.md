@@ -1,6 +1,6 @@
 # s3-team-adam · Section 3 · Group 02
 ###### Project Planning : https://canva.link/hatv2g8o8bihmr2
-###### Live:
+###### Live: https://s3-team-adam.web.app
 
 | Matric | Role       | Shop                | Feature                 | Branch                          | Folder                               |
 |------- |------------|---------------------|-------------------------|---------------------------------|--------------------------------------|
@@ -29,7 +29,7 @@
 | Role    | Email                   |
 |---------|-------------------------|
 | Admin   | admin@test.com          | admin1234
-| Vendor  | vendor-2418711@test.com |
+| Vendor  | vendor-2418711@test.com | vendor2418711
 | Vendor  | vendor-2411639@test.com |
 | Vendor  | vendor-2412941@test.com |
 | Vendor  | vendor-2416409@test.com |
